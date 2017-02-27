@@ -8,3 +8,6 @@ Controls:
   Movement: Tilt your mobile device to move in that direction.
   Jump: Tap the screen
   
+
+
+Included the scripts used to make the game work
